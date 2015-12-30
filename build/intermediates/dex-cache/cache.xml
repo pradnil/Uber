@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-e9b63903907e5d161da44fa9218ee97110a91948.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-f1af7b510258cc9817dfa6a60e072ca97ed76724.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\Uber\google-play-services1\google-play-services.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8434271bf62e19a955cda85dc23ac4258e58b32f">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\pre-dexed\debug\google-play-services-1c081a913465ed9d0312d0a82112444a9411786a.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.3.0\8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c\bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-tasks-1.3.0-7aa782f5c1918ec7ac7906ebf163d3ecb9d7cad5.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6d9ed9a288364688e7fcf6704776284dac1eb42e">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-ecb069fd8b6c9d109e7b4175ccdcfeaf1c8efcb0.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-670f55db3e5b2c7c54b11ed7864fdb04463c1194.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-d3923f6e8b3ca31d21999379b9bc06d5c33bd8fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77f9593d979f4347344be233bd0d888315f79517">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-ad197790842d14136d2842ca50f988539270056b.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-6cef0e8dfce45ca0016d22a3b24b4e2a3d835ed5.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-bb332165eb9a6ce204196644037985ecba1c88ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.11.0\6592129dec2caa8791d322c7e4b6b7a30e8eadae\parse-android-1.11.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6592129dec2caa8791d322c7e4b6b7a30e8eadae">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\pre-dexed\debug\parse-android-1.11.0-553439244bf5b75c11a86c657bc435041fe49063.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-1b70bae44badfbc4ea50218d54ca7cce37282fb1.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="697679619b00837e3d09e9988a2e1e2a9009d502">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-6bc1ad71ea2dfaa073213040589fb8328c1faca2.jar" />
+    </item>
+
+</items>
